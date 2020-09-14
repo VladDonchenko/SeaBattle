@@ -1,0 +1,10 @@
+D:\Cursach2\Sea-Battle-Game\SeaBattle\SeaBattle.CSharp\bin\Debug\SeatBattle.CSharp.exe
+D:\Cursach2\Sea-Battle-Game\SeaBattle\SeaBattle.CSharp\bin\Debug\SeatBattle.CSharp.pdb
+D:\Cursach2\Sea-Battle-Game\SeaBattle\SeaBattle.CSharp\obj\x86\Debug\SeaBattle.CSharp.csprojAssemblyReference.cache
+D:\Cursach2\Sea-Battle-Game\SeaBattle\SeaBattle.CSharp\obj\x86\Debug\SeatBattle.CSharp.exe
+D:\Cursach2\Sea-Battle-Game\SeaBattle\SeaBattle.CSharp\obj\x86\Debug\SeatBattle.CSharp.pdb
+D:\SeaBattle\SeaBattle.CSharp\obj\x86\Debug\SeaBattle.CSharp.csprojAssemblyReference.cache
+D:\SeaBattle\SeaBattle.CSharp\obj\x86\Debug\SeatBattle.CSharp.exe
+D:\SeaBattle\SeaBattle.CSharp\obj\x86\Debug\SeatBattle.CSharp.pdb
+D:\SeaBattle\SeaBattle.CSharp\bin\Debug\SeatBattle.CSharp.exe
+D:\SeaBattle\SeaBattle.CSharp\bin\Debug\SeatBattle.CSharp.pdb
